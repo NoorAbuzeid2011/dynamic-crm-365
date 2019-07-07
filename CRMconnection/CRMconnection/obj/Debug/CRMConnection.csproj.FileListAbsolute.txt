@@ -1,0 +1,29 @@
+c:\users\user\documents\visual studio 2012\Projects\CRMConnection\CRMConnection\bin\Debug\CRMConnection.exe.config
+c:\users\user\documents\visual studio 2012\Projects\CRMConnection\CRMConnection\obj\Debug\CRMConnection.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2012\Projects\CRMConnection\CRMConnection\bin\Debug\CRMConnection.exe
+C:\Users\user\Documents\Visual Studio 2012\Projects\CRMConnection\CRMConnection\bin\Debug\CRMConnection.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\CRMConnection\CRMConnection\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\CRMConnection\CRMConnection\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\CRMConnection\CRMConnection\bin\Debug\Microsoft.Xrm.Tooling.Connector.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\CRMConnection\CRMConnection\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\CRMConnection\CRMConnection\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\CRMConnection\CRMConnection\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\CRMConnection\CRMConnection\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\user\Documents\Visual Studio 2012\Projects\CRMConnection\CRMConnection\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\user\Documents\Visual Studio 2012\Projects\CRMConnection\CRMConnection\bin\Debug\Microsoft.Xrm.Tooling.Connector.xml
+C:\Users\user\Documents\Visual Studio 2012\Projects\CRMConnection\CRMConnection\bin\Debug\Microsoft.Xrm.Sdk.Deployment.xml
+C:\Users\user\Documents\Visual Studio 2012\Projects\CRMConnection\CRMConnection\obj\Debug\CRMConnection.exe
+C:\Users\user\Documents\Visual Studio 2012\Projects\CRMConnection\CRMConnection\obj\Debug\CRMConnection.pdb
+C:\Users\user\Desktop\CRMconnection\CRMConnection\obj\Debug\CRMConnection.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CRMconnection\CRMConnection\bin\Debug\CRMConnection.exe.config
+C:\Users\user\Desktop\CRMconnection\CRMConnection\bin\Debug\CRMConnection.exe
+C:\Users\user\Desktop\CRMconnection\CRMConnection\bin\Debug\CRMConnection.pdb
+C:\Users\user\Desktop\CRMconnection\CRMConnection\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\user\Desktop\CRMconnection\CRMConnection\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\user\Desktop\CRMconnection\CRMConnection\bin\Debug\Microsoft.Xrm.Tooling.Connector.dll
+C:\Users\user\Desktop\CRMconnection\CRMConnection\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\user\Desktop\CRMconnection\CRMConnection\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll
+C:\Users\user\Desktop\CRMconnection\CRMConnection\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+C:\Users\user\Desktop\CRMconnection\CRMConnection\obj\Debug\CRMConnection.csproj.CopyComplete
+C:\Users\user\Desktop\CRMconnection\CRMConnection\obj\Debug\CRMConnection.exe
+C:\Users\user\Desktop\CRMconnection\CRMConnection\obj\Debug\CRMConnection.pdb
